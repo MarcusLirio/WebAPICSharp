@@ -1,0 +1,12 @@
+E:\Microsservice\MicrosserviçoFinal\Cliente\bin\Debug\net5.0\Cliente.deps.json
+E:\Microsservice\MicrosserviçoFinal\Cliente\bin\Debug\net5.0\Cliente.dll
+E:\Microsservice\MicrosserviçoFinal\Cliente\bin\Debug\net5.0\Cliente.pdb
+E:\Microsservice\MicrosserviçoFinal\Cliente\obj\Debug\net5.0\Cliente.csproj.AssemblyReference.cache
+E:\Microsservice\MicrosserviçoFinal\Cliente\obj\Debug\net5.0\Cliente.GeneratedMSBuildEditorConfig.editorconfig
+E:\Microsservice\MicrosserviçoFinal\Cliente\obj\Debug\net5.0\Cliente.AssemblyInfoInputs.cache
+E:\Microsservice\MicrosserviçoFinal\Cliente\obj\Debug\net5.0\Cliente.AssemblyInfo.cs
+E:\Microsservice\MicrosserviçoFinal\Cliente\obj\Debug\net5.0\Cliente.csproj.CoreCompileInputs.cache
+E:\Microsservice\MicrosserviçoFinal\Cliente\obj\Debug\net5.0\Cliente.dll
+E:\Microsservice\MicrosserviçoFinal\Cliente\obj\Debug\net5.0\ref\Cliente.dll
+E:\Microsservice\MicrosserviçoFinal\Cliente\obj\Debug\net5.0\Cliente.pdb
+E:\Microsservice\MicrosserviçoFinal\Cliente\obj\Debug\net5.0\refint\Cliente.dll

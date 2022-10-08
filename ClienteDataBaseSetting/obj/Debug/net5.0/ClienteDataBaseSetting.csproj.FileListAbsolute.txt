@@ -1,0 +1,12 @@
+E:\Microsservice\MicrosserviçoFinal\ClienteDataBaseSetting\bin\Debug\net5.0\ClienteDataBaseSetting.deps.json
+E:\Microsservice\MicrosserviçoFinal\ClienteDataBaseSetting\bin\Debug\net5.0\ClienteDataBaseSetting.dll
+E:\Microsservice\MicrosserviçoFinal\ClienteDataBaseSetting\bin\Debug\net5.0\ClienteDataBaseSetting.pdb
+E:\Microsservice\MicrosserviçoFinal\ClienteDataBaseSetting\obj\Debug\net5.0\ClienteDataBaseSetting.csproj.AssemblyReference.cache
+E:\Microsservice\MicrosserviçoFinal\ClienteDataBaseSetting\obj\Debug\net5.0\ClienteDataBaseSetting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Microsservice\MicrosserviçoFinal\ClienteDataBaseSetting\obj\Debug\net5.0\ClienteDataBaseSetting.AssemblyInfoInputs.cache
+E:\Microsservice\MicrosserviçoFinal\ClienteDataBaseSetting\obj\Debug\net5.0\ClienteDataBaseSetting.AssemblyInfo.cs
+E:\Microsservice\MicrosserviçoFinal\ClienteDataBaseSetting\obj\Debug\net5.0\ClienteDataBaseSetting.csproj.CoreCompileInputs.cache
+E:\Microsservice\MicrosserviçoFinal\ClienteDataBaseSetting\obj\Debug\net5.0\ClienteDataBaseSetting.dll
+E:\Microsservice\MicrosserviçoFinal\ClienteDataBaseSetting\obj\Debug\net5.0\refint\ClienteDataBaseSetting.dll
+E:\Microsservice\MicrosserviçoFinal\ClienteDataBaseSetting\obj\Debug\net5.0\ClienteDataBaseSetting.pdb
+E:\Microsservice\MicrosserviçoFinal\ClienteDataBaseSetting\obj\Debug\net5.0\ref\ClienteDataBaseSetting.dll

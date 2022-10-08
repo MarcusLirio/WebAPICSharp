@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7E+B36AmJjWhbOGqZOb+ckXCXbj/Ueq64qiXwk2+QEFbUE/MpZJXod7codehZXqQ6J95IkA0B7fMZhvJVJFivg==",
+  "success": true,
+  "projectFilePath": "E:\\Microsservice\\MicrosserviçoFinal\\ClienteDataBaseSetting\\ClienteDataBaseSetting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marcus\\.nuget\\packages\\mongodb.bson\\2.17.1\\mongodb.bson.2.17.1.nupkg.sha512",
+    "C:\\Users\\Marcus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
